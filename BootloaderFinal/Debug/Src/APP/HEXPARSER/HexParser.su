@@ -1,0 +1,3 @@
+HexParser.c:19:6:HexParser_vEraseAppArea	8	static
+HexParser.c:24:16:HexParser_uint8_tAscii2Hex	24	static
+HexParser.c:40:6:HexParser_vParseData	24	static

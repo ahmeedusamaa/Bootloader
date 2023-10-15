@@ -1,0 +1,5 @@
+FMI_Prog.c:15:13:FMI_vUnclockFlash	4	static
+FMI_Prog.c:21:13:FMI_vWaitBSY	4	static
+FMI_Prog.c:29:6:MCALFMI_vMassErase	16	static
+FMI_Prog.c:38:6:MCALFMI_vSectorErase	16	static
+FMI_Prog.c:62:6:MCALFMI_vFlashWrite	32	static

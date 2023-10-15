@@ -1,0 +1,5 @@
+TFT_Program.c:13:6:HAL_TFT_SPI_voidInit	32	static
+TFT_Program.c:28:6:HAL_TFT_voidInit	8	static
+TFT_Program.c:63:6:HAL_TFT_voidSendCommand	16	static
+TFT_Program.c:68:6:HAL_TFT_voidSendData	16	static
+TFT_Program.c:74:6:HAL_TFT_voidShowPhoto	24	static

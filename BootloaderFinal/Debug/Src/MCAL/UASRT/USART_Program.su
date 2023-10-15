@@ -1,0 +1,8 @@
+USART_Program.c:16:6:MCAL_UART_Init	32	static
+USART_Program.c:103:6:MCAL_UART_DeInit	16	static
+USART_Program.c:122:6:MCAL_UART_Wait_TC	16	static
+USART_Program.c:127:6:MCAL_UART_SendData	16	static
+USART_Program.c:183:6:MCAL_UART_ReciveData	16	static
+USART_Program.c:273:6:MCAL_UART_GPIO_SetPins	24	static
+USART_Program.c:320:6:MCAL_UART_SendString	24	static
+USART_Program.c:332:9:MCAL_UART_Recive_Byte_Synch	24	static

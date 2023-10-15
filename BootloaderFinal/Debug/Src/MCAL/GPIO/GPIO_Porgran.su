@@ -1,0 +1,5 @@
+GPIO_Porgran.c:20:6:MCAL_GPIOx_Init	16	static
+GPIO_Porgran.c:138:6:MCAL_GPIOx_Pin_Write	16	static
+GPIO_Porgran.c:158:9:MCAL_GPIOx_Pin_Read	16	static
+GPIO_Porgran.c:166:6:MCAL_GPIOx_Port_Write	16	static
+GPIO_Porgran.c:171:6:MCAL_GPIOx_Pin_Toggle	16	static

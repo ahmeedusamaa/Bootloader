@@ -1,0 +1,7 @@
+RCC_Program.c:19:6:MCAL_RCC_voidInit	24	static
+RCC_Program.c:84:6:MCAL_RCC_voidPeripheral_EN	16	static
+RCC_Program.c:109:6:MCAL_RCC_voidPeripheral_DIS	16	static
+RCC_Program.c:126:10:MCALL_RCC_GetPCLK1Freq	16	static
+RCC_Program.c:138:10:MCALL_RCC_GetPCLK2Freq	16	static
+RCC_Program.c:150:10:MCALL_RCC_GetHCLKFreq	32	static
+RCC_Program.c:167:10:MCALL_RCC_GetSYSCLKFreq	4	static
